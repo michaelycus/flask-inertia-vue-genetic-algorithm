@@ -1,0 +1,1 @@
+# flask-inertia-vue-genetic-algorithm
